@@ -1,6 +1,6 @@
 # GDC Project Chatbot
 
-A simple chatbot designed to answer natural language queries related to GDC Projects.
+A simple chatbot designed to answer natural language queries related to GDC projects.
 
 ## Background
 
