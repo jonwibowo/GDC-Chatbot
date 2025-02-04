@@ -11,13 +11,14 @@ When students applied for GDC Projects, myself included, they faced challenges n
 3. Quickly filter projects based on personal preferences, which ultimately lead to a time-consuming and sometimes disorganized application process.
 ## Solution
 
-<img width="959" alt="Pasted image 20250204141041" src="https://github.com/user-attachments/assets/210ff086-87fa-4d2e-8c14-ee0cc5e86e88" />
-
 To address this, I built a chatbot that allows students to:
 
 ✅ **Receive project summaries** – Get clear, concise information about relevant projects without having to sift through the entire document.  
 ✅ **Improve decision-making** – Quickly identify projects aligned with their career and learning goals.
 ✅ **Search projects using natural language** – Ask about projects related to specific topics, skills, or keywords.  
+
+<img width="959" alt="Pasted image 20250204141041" src="https://github.com/user-attachments/assets/210ff086-87fa-4d2e-8c14-ee0cc5e86e88" />
+
 ## How It Works (RAG-based Approach)
 
 1. **Data Preparation** -- Converted tabular CSV data into structured natural language descriptions using paragraph templates 
